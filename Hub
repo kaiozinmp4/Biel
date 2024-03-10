@@ -28,7 +28,7 @@ local L_4_ = L_1_:CreateWindow({
 
 	Acrylic = false,
 
-	Theme = "Dark",
+	Theme = "Light",
 
 	MinimizeKey = Enum.KeyCode.End
 
